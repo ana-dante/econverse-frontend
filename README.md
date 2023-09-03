@@ -1,4 +1,4 @@
-<h1>Sejam bem vindos ao meu projeto para o processo seletivo da empresa Econverse.</h1>
+<h1>Sejam bem vindos ao meu projeto.</h1>
 
 ## Instalando dependências
 
