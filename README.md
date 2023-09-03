@@ -1,5 +1,3 @@
-# Teste Técnico Frontend
-
 <h1>Sejam bem vindos ao meu projeto para o processo seletivo da empresa Econverse.</h1>
 
 ## Instalando dependências
@@ -101,4 +99,4 @@ Gerenciamento de estado com "context-api" e opção de Redux.
 Modularidade garante expansão tranquila e evita conflitos.
 Pronto para evoluir e incorporar tecnologias futuras.
 
-Desafio realizado com muito carinho ❤️, espero que gostem do resultado.
+Realizado com muito carinho ❤️, espero que gostem do resultado.
